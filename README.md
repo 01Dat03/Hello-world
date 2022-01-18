@@ -1,2 +1,6 @@
-# Hello-world
-bài tập giữa kì 
+#include<iosteam>
+ using namespace std;
+ int main(){
+  cout<<"test"; 
+  }
+  
